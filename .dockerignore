@@ -1,0 +1,6 @@
+*.ipynb
+__pycache__
+venv
+*.yaml
+docker-compose.yml
+.mypy_cache
